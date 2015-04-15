@@ -33,12 +33,15 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
+                    <string>com.fenqile.merchant</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
+                    <string>开展您的新生意</string>
                     <key>title</key>
+                    <string>分期乐商户版</string>
                 </dict>
             </dict>
         </array>
